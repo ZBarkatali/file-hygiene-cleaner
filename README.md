@@ -121,3 +121,8 @@ if __name__ == "__main__":
     }
 }
 
+#### Author ####
+
+Zain Barkatali
+Barkatali Technology
+Automation & IT systems for small businesses
